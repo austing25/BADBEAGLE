@@ -10,6 +10,3 @@ If you email the developer for support or other feedback, the emails with email 
 ## Disclosure of Personal Information
 
 We will not disclose your information to any third party except if you expressly consent or where required by law.
-
-# BAD BEAGLE TECH SUPPORT
-Please send your support questions to: a.gendron25@gmail.com
